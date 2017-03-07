@@ -2,7 +2,7 @@
 
 ## features
 
-* tail SQS queue.
+* tail SQS queue with long polling.
 * extract attributes with custom type
   * especially, when the suffix is `.json`, read as json.
   * if not, read as text.
